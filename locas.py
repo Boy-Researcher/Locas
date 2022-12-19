@@ -1,7 +1,7 @@
 import os
 os.system('pip install colorama')
+os.system('pip install pyfiglet')
 os.system('pip install pyAesCrypt')
-os.system('pip install colorama')
 import pyAesCrypt
 import pyfiglet
 from colorama import init, Fore
